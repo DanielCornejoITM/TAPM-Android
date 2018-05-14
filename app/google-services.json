@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "822792611880",
+    "firebase_url": "https://danielc-33bef.firebaseio.com",
+    "project_id": "danielc-33bef",
+    "storage_bucket": "danielc-33bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822792611880:android:9f1b97cd505c5b15",
+        "android_client_info": {
+          "package_name": "itmorelia.edu.mx.tapm_u2p1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822792611880-35l7nq3vusb1cts9dfsj0mgv91o2i3gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUFQFWFiFH53Z3x1dZLTCxcjm8R6pL5fg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

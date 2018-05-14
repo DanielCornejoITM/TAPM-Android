@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TAPM_U2P1</string>
+    <!-- Foursquare API -->
+    <string name="api_url">https://api.foursquare.com/v2/venues/</string>
+    <string name="client_id">client_id=1OG2PKN5FOOODXFPTI2CFKLUQWODTRMAROVS3Q3MJ3P3DUQ2</string>
+    <string name="client_secret">client_secret=BRVV2RPG2543TKBTGOOVZIJXCROHQ5K1WRDSJDVULI00AN44</string>
+    <string name="version">v=20180423</string>
+    <!-- Labels -->
+    <string name="hint_buscar">Ingrese el lugar a buscar...</string>
+    <string name="imgRowDesc">Icono del tipo de lugar</string>
+    <string name="tituloRow">Titulo</string>
+    <string name="subtituloRow">Subtitulo</string>
+    <string name="action_settings">Settings</string>
+</resources>
