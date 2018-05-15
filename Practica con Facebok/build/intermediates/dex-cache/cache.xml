@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/24088d835804ef9c928658ef64c756fc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/70da57442f536de56708cf0d853ef99b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/ee326b144aab8c8c5ead2130c15f5972/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/adc0f2f347c343d96e81270f0e975cbe/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/48823193331b0fdb162aeb7e7a644273/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/7f75ed54258e661fb117e11f5bb8322a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/5788a387c9690b7853822058b66a1025/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/347c82c943d8c3020bc130b1caa315b2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/fd3012609d9f0b13fe36a13d6a47c120/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/facebook-share-4.33.0.aar/b17e4d96d9633f4a8daed7bdcb98541e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f64aa03e24769f0e10f35f1c08e4d004b5db067b">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/836cffc895596b4ace8c04a2b187ebc1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b478831814c5b6a1337f9e75d696d5faa6973519">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/e872b1a38d8cc181d7856fb93e60649e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/f27c6b06537e5bbfc13a329e8832e249/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/0df71334c85b9e9497793aafdfd314ce/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.33.0.aar/fc18fe1fe023ed73be7eca5b5893ae64/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/20c235516891e0bbdb94160a8417d5dc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/0fae62fcae3ef97b93987af2e085d1e8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f46121a7c3b3ba958fc27c39447ae205be23ac4a">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/facebook-login-4.33.0.aar/e34a351484115c0950470de41a50c777/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95dbd34766d3f158ef20de4b5b0206118e960709">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/76cd86d4726fc2ae61c861499be05f98/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.33.0.aar/b89bbeefdc0338ba4e00194b0abd5b81/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6d3dda07fbd30171edc150e4f13884fce5cd9926">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/2781050bf95dea704d2704e36bac4171/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.33.0.aar/21627097ce15fb977b9fe9ff48abd29a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/181b5907cf8b3c5bdbe3fc73a17ae5bb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/9688ba6450ccfbd662a0a39f94c963f5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/98d0c3155505e545509d5dad3ff39646/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/facebook-places-4.33.0.aar/65834b63ea6c66d991914b3c507775e9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ab689d36e3c7425adf1e32986075045d1baf4b2">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/4d4202d2b1b3bc7df760d5f76729deb6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.21/d64187eb2d9d1521be3421aa8c6774a8625cdde8/kotlin-stdlib-1.2.21.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d64187eb2d9d1521be3421aa8c6774a8625cdde8">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f758ee39da3c4847acc8a3e122753bae/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.0/931532e953a477f876f2de18c2e7f16eee01078f/constraint-layout-solver-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="931532e953a477f876f2de18c2e7f16eee01078f">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/5a435057913fa2a25e75f360ed632a22/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/bfa97f25a88a44d8c28959dc9aa31b15/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/4c4913bb5e8169ba07fe0b5400ec9ed5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d9151b05d74c7d17dba9485cbb56be7e16ed9aa">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.2.21/3beb08c67673033183c8652572680587876e64b5/kotlin-stdlib-jre7-1.2.21.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3beb08c67673033183c8652572680587876e64b5">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/daniel/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/bc74ac284cb0457f7c404c42cf1d0ac3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/home/daniel/MEGAsync/Programacion Movil/Android/Amaro/Busquedas/TAPM_U2P1/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+
+</items>

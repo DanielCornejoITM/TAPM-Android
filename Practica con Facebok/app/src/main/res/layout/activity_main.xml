@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="itmorelia.edu.mx.tapm_u2p1.MainActivity">
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/Face"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+
+        android:tint="@android:color/background_light"
+        app:backgroundTint="@color/colorAccent"
+        app:fabSize="normal"
+        app:rippleColor="@android:color/holo_blue_dark"
+        app:srcCompat="@android:drawable/ic_notification_clear_all" />
+
+    <EditText
+        android:id="@+id/editLugar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:drawableRight="@mipmap/search"
+        android:hint="@string/hint_buscar"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerLugares"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@id/editLugar" />
+
+</LinearLayout>
