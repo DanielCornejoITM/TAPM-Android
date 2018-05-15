@@ -2,8 +2,8 @@
     <string name="app_name">TAPM_U2P1</string>
     <!-- Foursquare API -->
     <string name="api_url">https://api.foursquare.com/v2/venues/</string>
-    <string name="client_id">client_id=1OG2PKN5FOOODXFPTI2CFKLUQWODTRMAROVS3Q3MJ3P3DUQ2</string>
-    <string name="client_secret">client_secret=BRVV2RPG2543TKBTGOOVZIJXCROHQ5K1WRDSJDVULI00AN44</string>
+    <string name="client_id">client_id=HZLJNFFBB1V1TEBGEEL3AEDAGNQHSCPSPWVV5AGOU1XC2MBP</string>
+    <string name="client_secret">client_secret=5NTSUH5OA2PA1NOZQH2UEE5X3RMEDP0MZOY3DCD41WTBYQU1</string>
     <string name="version">v=20180423</string>
     <!-- Labels -->
     <string name="hint_buscar">Ingrese el lugar a buscar...</string>
@@ -11,4 +11,7 @@
     <string name="tituloRow">Titulo</string>
     <string name="subtituloRow">Subtitulo</string>
     <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">218945758692523</string>
+    <string name="fb_login_protocol_scheme">fb218945758692523</string>
+
 </resources>
